@@ -24,6 +24,7 @@ Step 6:
 End the program
 
 ## PROGRAM:
+```
 fname=input("Enter file name: ")
 num_words=0
 with open(fname,'r') as f:
@@ -31,7 +32,7 @@ with open(fname,'r') as f:
         words=line.split()
         num_words+=len(words)
 print("Number of words: ",num_words)
-
+```
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/120539398/214815457-1192c342-efc8-4ec8-a7b6-0ea3e13af1df.png)
 
