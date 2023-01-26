@@ -25,6 +25,8 @@ End the program
 
 ## PROGRAM:
 ```
+Developer name: Rathish kumar C
+Reference number: 22009283
 fname=input("Enter file name: ")
 num_words=0
 with open(fname,'r') as f:
