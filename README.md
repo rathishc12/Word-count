@@ -8,19 +8,19 @@ Anaconda - Python 3.7
 ### Step 1:
 Open terminal and activate conda, then open jupyter notebook.
 
-Step 2:
+### Step 2:
 Create a text file in jupyter notebook or upload a text file in the jupyter notebook.
 
-Step 3:
+### Step 3:
 Open a new cell in jupyter notebook.
 
-Step 4:
+### Step 4:
 Type the program in the cell.
 
-Step 5:
+### Step 5:
 Now in the output box,type the file name.
 
-Step 6:
+### Step 6:
 End the program
 
 ## PROGRAM:
