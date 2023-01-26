@@ -33,8 +33,8 @@ with open(fname,'r') as f:
 print("Number of words: ",num_words)
 
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/120539398/214815457-1192c342-efc8-4ec8-a7b6-0ea3e13af1df.png)
 
-![image](https://user-images.githubusercontent.com/120539398/214814641-d6aa484f-c65a-42bc-b700-577929cee338.png)
 
 
 ## RESULT:
